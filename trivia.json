@@ -1,0 +1,741 @@
+{
+    "world history": [
+        {
+            "category": "World History",
+            "question": "How many years did the 100 years war last?",
+            "answer": "116",
+            "format": "MultipleChoice",
+            "choices": [
+                "116",
+                "87",
+                "12",
+                "205"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "In which year was John F. Kennedy assassinated?",
+            "answer": "1963",
+            "format": "MultipleChoice",
+            "choices": [
+                "1963",
+                "1967",
+                "1958",
+                "1978"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "Which world leader is famous for his “Little Red Book”?",
+            "answer": "Mao Zedong",
+            "format": "MultipleChoice",
+            "choices": [
+                "Mao Zedong",
+                "Xi Xinping",
+                "Ho Chi Minh",
+                "Kim Jong-Un"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "The ancient city of Rome was built on how many hills?",
+            "answer": "Seven",
+            "format": "MultipleChoice",
+            "choices": [
+                "Seven",
+                "Eight",
+                "Four",
+                "Twelve"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "Before becoming the state of New Jersey, this US state was originally known as New __________.",
+            "answer": "Netherlands",
+            "format": "MultipleChoice",
+            "choices": [
+                "Denmark",
+                "Netherlands",
+                "Spain",
+                "England"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "Which ancient city was famous for its Hanging Gardens?",
+            "answer": "Babylon",
+            "format": "MultipleChoice",
+            "choices": [
+                "Mesopotamia",
+                "Athens",
+                "Babylon",
+                "Rome"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "In which country was Adolf Hitler born?",
+            "answer": "",
+            "format": "MultipleChoice",
+            "choices": [
+                "Australia",
+                "Austria",
+                "Germany",
+                "Switzerland"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "The Hundred Years War was a conflict between the two nations France and who?",
+            "answer": "England",
+            "format": "MultipleChoice",
+            "choices": [
+                "England",
+                "Spain",
+                "Italy",
+                "China"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "Who wrote the document known as the 95 Theses?",
+            "answer": "Martin Luther",
+            "format": "MultipleChoice",
+            "choices": [
+                "Martin Luther",
+                "Pope Francis",
+                "The Dalai Lama",
+                "Barack Obama"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "Victory in Europe Day, or VE Day, celebrates the Allies' victory over Nazi Germany on which date?",
+            "answer": "May 8th",
+            "format": "MultipleChoice",
+            "choices": [
+                "May 8th",
+                "May 9th",
+                "July 4th",
+                "January 6th"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "The Reign of Terror was a period during which major social and political event?",
+            "answer": "French Revolution",
+            "format": "MultipleChoice",
+            "choices": [
+                "French Revolution",
+                "Nazi Occupation of Poland",
+                "November 11th",
+                "WWI"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "Which Chinese destination was the site of protests in 1989?",
+            "answer": "Tiananmen Square",
+            "format": "MultipleChoice",
+            "choices": [
+                "Tiananmen Square",
+                "Taiwan",
+                "Guangzhou",
+                "Hangzhou"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "True or False: Civil rights leader Martin Luther King, Jr won the Nobel Peace prize in 1964.",
+            "answer": "True",
+            "format": "TrueFalse"
+        },
+        {
+            "category": "World History",
+            "question": "True or False: John Wilkes Booth assassinated Abraham Lincoln.",
+            "answer": "True",
+            "format": "TrueFalse"
+        },
+        {
+            "category": "World History",
+            "question": "True or False: Cleopatra, the last Queen of Egypt, was born in Rome",
+            "answer": "False",
+            "format": "TrueFalse"
+        }
+    ],
+    "art": [
+        {
+            "category": "Art",
+            "question": "Banksy's artwork started appearing on walls in which decade?",
+            "answer": "1990s",
+            "format": "MultipleChoice",
+            "choices": [
+                "1990s",
+                "2000s",
+                "2010s",
+                "1970s"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "Which female Mexican artist is famous for self-portraits?",
+            "answer": "Frida Kahlo",
+            "format": "MultipleChoice",
+            "choices": [
+                "Leonora Carrington",
+                "Sofía Táboas",
+                "Frida Kahlo",
+                "Elizabeth Catlett"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "Renoir was one of the leading artists in which artistic movement?",
+            "answer": "Impressionism",
+            "format": "MultipleChoice",
+            "choices": [
+                "Impressionism",
+                "Realism",
+                "Surrealism",
+                "New Wave"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "Which rebel leader was featured in the Pop Art of Andy Warhol?",
+            "answer": "Che Guevara",
+            "format": "MultipleChoice",
+            "choices": [
+                "Luke Skywalker",
+                "Che Guevara",
+                "Marilyn Monroe",
+                "Fidel Castro"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "Katsushika Hokusai painted The Great _______ off Kanagawa circa 1830.",
+            "answer": "Wave",
+            "format": "MultipleChoice",
+            "choices": [
+                "Wave",
+                "Fleet",
+                "Island",
+                "Skies"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "The Starry Night Over The Rhone was painted in 1888 by which artist?",
+            "answer": "Van Gogh",
+            "format": "MultipleChoice",
+            "choices": [
+                "Monet",
+                "Da Vinci",
+                "Van Gogh",
+                "Raphael"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "Vincent Van Gogh is considered by many to be Post-Impressionist, or \"The Father of ________\".",
+            "answer": "Expressionism",
+            "format": "MultipleChoice",
+            "choices": [
+                "Expressionism",
+                "Impressionism",
+                "Modernism",
+                "Post-Modernism"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "In Botticelli's \"Birth of Venus\" (c. 1485), Venus is standing on a(n) what?",
+            "answer": "Shell",
+            "format": "MultipleChoice",
+            "choices": [
+                "Shell",
+                "Wave",
+                "Rock",
+                "Whale"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "Johannes Vermeer's \"Girl with a Pearl ________\" (c. 1665) shares its name with a 2003 Romance film starring Scarlett Johansson.",
+            "answer": "Earring",
+            "format": "MultipleChoice",
+            "choices": [
+                "Necklace",
+                "Earring",
+                "Hairclip",
+                "Bracelet"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "Alexandros of Antioch's \"Venus de Milo\" (c. 150 BC) is a sculpture depicting which greek goddess?",
+            "answer": "Aphrodite",
+            "format": "MultipleChoice",
+            "choices": [
+                "Aphrodite",
+                "Artemis",
+                "Persephone",
+                "Hestia"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "\"The Night Watch\" is one of the most famous works by which artist?",
+            "answer": "Rembrandt",
+            "format": "MultipleChoice",
+            "choices": [
+                "Monet",
+                "Van Gogh",
+                "Rembrandt",
+                "Renoir"
+            ]
+        },
+        {
+            "category": "Art",
+            "question": "True or False: The Smithsonian American Art Museum is in Washington, D.C.",
+            "answer": "True",
+            "format": "TrueFalse"
+        },
+        {
+            "category": "Art",
+            "question": "Which artistic movement includes works like 'Starry Night' by Vincent van Gogh?",
+            "answer": "Post-Impressionism",
+            "format": "MultipleChoice",
+            "choices": ["Cubism", "Surrealism", "Impressionism", "Post-Impressionism"]
+        },
+        {
+            "category": "Art",
+            "question": "True or False: The painting 'The Persistence of Memory' features melting clocks.",
+            "answer": "True",
+            "format": "TrueFalse"
+        },
+        {
+            "category": "Art",
+            "question": "True or False: Claude Monet and Edgar Degas are both examples of Renaissance artists.",
+            "answer": "False",
+            "format": "TrueFalse"
+        }
+    ],
+    "movies": [
+        {
+          "category": "Movies",
+          "question": "In which film did Humphrey Bogart say the famous line, 'Here's looking at you, kid'?",
+          "answer": "Casablanca",
+          "format": "MultipleChoice",
+          "choices": ["The Maltese Falcon", "Casablanca", "Key Largo", "To Have and Have Not"]
+        },
+        {
+          "category": "Movies",
+          "question": "Who directed the 1994 film 'Pulp Fiction'?",
+          "answer": "Quentin Tarantino",
+          "format": "MultipleChoice",
+          "choices": ["Martin Scorsese", "Quentin Tarantino", "Coen Brothers", "Steven Spielberg"]
+        },
+        {
+          "category": "Movies",
+          "question": "Which animated film features a character named Simba?",
+          "answer": "The Lion King",
+          "format": "MultipleChoice",
+          "choices": ["Aladdin", "Beauty and the Beast", "The Lion King", "Toy Story"]
+        },
+        {
+          "category": "Movies",
+          "question": "In 'The Shawshank Redemption,' what does Andy Dufresne carve his way through to escape from prison?",
+          "answer": "Wall",
+          "format": "MultipleChoice",
+          "choices": ["Floor", "Wall", "Ceiling", "Cell Bars"]
+        },
+        {
+          "category": "Movies",
+          "question": "Which actor played the role of Tony Stark in the Marvel Cinematic Universe?",
+          "answer": "Robert Downey Jr.",
+          "format": "MultipleChoice",
+          "choices": ["Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Robert Downey Jr."]
+        },
+        {
+          "category": "Movies",
+          "question": "True or False: 'The Godfather' is based on a novel of the same name by Mario Puzo.",
+          "answer": "True",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Movies",
+          "question": "Who won the Academy Award for Best Actress for her role in 'La La Land'?",
+          "answer": "Emma Stone",
+          "format": "MultipleChoice",
+          "choices": ["Emma Stone", "Meryl Streep", "Natalie Portman", "Jennifer Lawrence"]
+        },
+        {
+          "category": "Movies",
+          "question": "Which film features a character named Travis Bickle who drives a taxi in New York City?",
+          "answer": "Taxi Driver",
+          "format": "MultipleChoice",
+          "choices": ["Collateral", "Nightcrawler", "Drive", "Taxi Driver"]
+        },
+        {
+          "category": "Movies",
+          "question": "What is the name of the fictional African country in 'Black Panther'?",
+          "answer": "Wakanda",
+          "format": "MultipleChoice",
+          "choices": ["Zamunda", "Wakanda", "Genovia", "Elbonia"]
+        },
+        {
+          "category": "Movies",
+          "question": "True or False: 'Forrest Gump' is based on a novel by Winston Groom.",
+          "answer": "True",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Movies",
+          "question": "Who directed the 2017 horror film 'Get Out'?",
+          "answer": "Jordan Peele",
+          "format": "MultipleChoice",
+          "choices": ["Jordan Peele", "Ari Aster", "John Krasinski", "James Wan"]
+        },
+        {
+          "category": "Movies",
+          "question": "Which James Cameron film features the line, 'I'll be back'?",
+          "answer": "The Terminator",
+          "format": "MultipleChoice",
+          "choices": ["Aliens", "The Terminator", "Avatar", "Titanic"]
+        },
+        {
+          "category": "Movies",
+          "question": "Who played the lead role in the film 'The Matrix'?",
+          "answer": "Keanu Reeves",
+          "format": "MultipleChoice",
+          "choices": ["Keanu Reeves", "Tom Cruise", "Will Smith", "Brad Pitt"]
+        },
+        {
+          "category": "Movies",
+          "question": "True or False: 'The Dark Knight' was directed by Christopher Nolan.",
+          "answer": "True",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Movies",
+          "question": "In the film 'Inception,' what is used to enter the dream world?",
+          "answer": "Dream Machine",
+          "format": "MultipleChoice",
+          "choices": ["Dreamcatcher", "Dream Weaver", "Dream Machine", "Dream Portal"]
+        }
+    ],
+    "music": [
+        {
+          "category": "Music",
+          "question": "Which band released the album 'The Dark Side of the Moon' in 1973?",
+          "answer": "Pink Floyd",
+          "format": "MultipleChoice",
+          "choices": ["Led Zeppelin", "The Beatles", "Pink Floyd", "The Rolling Stones"]
+        },
+        {
+          "category": "Music",
+          "question": "Who is known as the 'King of Pop'?",
+          "answer": "Michael Jackson",
+          "format": "MultipleChoice",
+          "choices": ["Elvis Presley", "Michael Jackson", "Prince", "David Bowie"]
+        },
+        {
+          "category": "Music",
+          "question": "Which female artist released the album '21' in 2011?",
+          "answer": "Adele",
+          "format": "MultipleChoice",
+          "choices": ["Taylor Swift", "Adele", "Beyoncé", "Rihanna"]
+        },
+        {
+          "category": "Music",
+          "question": "In which year did The Beatles release their debut album 'Please Please Me'?",
+          "answer": "1963",
+          "format": "MultipleChoice",
+          "choices": ["1962", "1963", "1964", "1965"]
+        },
+        {
+          "category": "Music",
+          "question": "Who is the lead singer of the rock band U2?",
+          "answer": "Bono",
+          "format": "MultipleChoice",
+          "choices": ["Chris Martin", "Bono", "Mick Jagger", "Bruce Springsteen"]
+        },
+        {
+          "category": "Music",
+          "question": "True or False: Elvis Presley is also known as 'The Boss.'",
+          "answer": "False",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Music",
+          "question": "Which artist won the Nobel Prize in Literature in 2016?",
+          "answer": "Bob Dylan",
+          "format": "MultipleChoice",
+          "choices": ["Bob Dylan", "Joni Mitchell", "Leonard Cohen", "Paul Simon"]
+        },
+        {
+          "category": "Music",
+          "question": "In which year did Nirvana release their iconic album 'Nevermind'?",
+          "answer": "1991",
+          "format": "MultipleChoice",
+          "choices": ["1990", "1991", "1992", "1993"]
+        },
+        {
+          "category": "Music",
+          "question": "Which headline performers took the stage at the halftime show of Super Bowl LIV in 2020?",
+          "answer": "Shakira and Jennifer Lopez",
+          "format": "MultipleChoice",
+          "choices": ["Coldplay", "Shakira and Jennifer Lopez", "Maroon 5", "U2"]
+        },
+        {
+          "category": "Music",
+          "question": "True or False: Madonna's real name is Madonna.",
+          "answer": "False",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Music",
+          "question": "Which 1970's pop wrote the 1974 ballad 'Don't Let the Sun Go Down on Me'?",
+          "answer": "Elton John",
+          "format": "MultipleChoice",
+          "choices": ["David Bowie", "Elton John", "Freddie Mercury", "Billy Joel"]
+        },
+        {
+          "category": "Music",
+          "question": "Which pop star is known as the 'Material Girl'?",
+          "answer": "Madonna",
+          "format": "MultipleChoice",
+          "choices": ["Britney Spears", "Lady Gaga", "Madonna", "Katy Perry"]
+        },
+        {
+          "category": "Music",
+          "question": "Who wrote the song 'Bohemian Rhapsody'?",
+          "answer": "Freddie Mercury",
+          "format": "MultipleChoice",
+          "choices": ["Freddie Mercury", "John Lennon", "David Bowie", "Elton John"]
+        },
+        {
+          "category": "Music",
+          "question": "True or False: Adele's full name is Adele Laurie Blue Adkins.",
+          "answer": "True",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Music",
+          "question": "Which country is the birthplace of the band ABBA?",
+          "answer": "Sweden",
+          "format": "MultipleChoice",
+          "choices": ["Norway", "Denmark", "Sweden", "Finland"]
+        }
+    ],
+    "geography": [
+        {
+          "category": "Geography",
+          "question": "What is the capital city of Japan?",
+          "answer": "Tokyo",
+          "format": "MultipleChoice",
+          "choices": ["Beijing", "Seoul", "Bangkok", "Tokyo"]
+        },
+        {
+          "category": "Geography",
+          "question": "Which river is the longest in the world?",
+          "answer": "Nile",
+          "format": "MultipleChoice",
+          "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"]
+        },
+        {
+          "category": "Geography",
+          "question": "The __________ Desert is the largest desert in the world?",
+          "answer": "Antarctic",
+          "format": "MultipleChoice",
+          "choices": ["Sahara", "Gobi", "Arabian", "Antarctic"]
+        },
+        {
+          "category": "Geography",
+          "question": "Which country is known as the 'Land of the Rising Sun'?",
+          "answer": "Japan",
+          "format": "MultipleChoice",
+          "choices": ["China", "South Korea", "Japan", "Vietnam"]
+        },
+        {
+          "category": "Geography",
+          "question": "What is the capital city of Australia?",
+          "answer": "Canberra",
+          "format": "MultipleChoice",
+          "choices": ["Sydney", "Melbourne", "Canberra", "Brisbane"]
+        },
+        {
+          "category": "Geography",
+          "question": "True or False: The Amazon Rainforest is located in Africa.",
+          "answer": "False",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Geography",
+          "question": "Which mountain is the tallest in North America?",
+          "answer": "Denali",
+          "format": "MultipleChoice",
+          "choices": ["Mount McKinley", "Mount Logan", "Denali", "Mount St. Elias"]
+        },
+        {
+          "category": "Geography",
+          "question": "In which continent is the Sahara Desert located?",
+          "answer": "Africa",
+          "format": "MultipleChoice",
+          "choices": ["Asia", "Africa", "South America", "Australia"]
+        },
+        {
+          "category": "Geography",
+          "question": "Which ocean is the largest on Earth?",
+          "answer": "Pacific Ocean",
+          "format": "MultipleChoice",
+          "choices": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"]
+        },
+        {
+          "category": "Geography",
+          "question": "True or False: The Great Wall of China is visible from space without aid.",
+          "answer": "False",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Geography",
+          "question": "Which river flows through Cairo?",
+          "answer": "Nile",
+          "format": "MultipleChoice",
+          "choices": ["Tigris", "Euphrates", "Nile", "Jordan"]
+        },
+        {
+          "category": "Geography",
+          "question": "What is the smallest country in the world?",
+          "answer": "Vatican City",
+          "format": "MultipleChoice",
+          "choices": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"]
+        },
+        {
+          "category": "Geography",
+          "question": "Which African country is known as the 'Pearl of Africa'?",
+          "answer": "Uganda",
+          "format": "MultipleChoice",
+          "choices": ["Kenya", "Tanzania", "Uganda", "Rwanda"]
+        },
+        {
+          "category": "Geography",
+          "question": "True or False: Mount Everest is located in the Himalayas.",
+          "answer": "True",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Geography",
+          "question": "Which strait separates Europe and Asia?",
+          "answer": "Bosporus",
+          "format": "MultipleChoice",
+          "choices": ["Strait of Gibraltar", "Bering Strait", "Bosporus", "Strait of Hormuz"]
+        }
+    ],
+    "science": [
+        {
+          "category": "Science",
+          "question": "What is the chemical symbol for the element gold?",
+          "answer": "Au",
+          "format": "MultipleChoice",
+          "choices": ["Ag", "Fe", "Au", "Cu"]
+        },
+        {
+          "category": "Science",
+          "question": "Which planet is known as the 'Red Planet'?",
+          "answer": "Mars",
+          "format": "MultipleChoice",
+          "choices": ["Venus", "Mars", "Jupiter", "Saturn"]
+        },
+        {
+          "category": "Science",
+          "question": "What is the powerhouse of the cell?",
+          "answer": "Mitochondria",
+          "format": "MultipleChoice",
+          "choices": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"]
+        },
+        {
+          "category": "Science",
+          "question": "What is the largest mammal in the world?",
+          "answer": "Blue Whale",
+          "format": "MultipleChoice",
+          "choices": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"]
+        },
+        {
+          "category": "Science",
+          "question": "Which gas is primarily responsible for the Earth's greenhouse effect?",
+          "answer": "Carbon Dioxide",
+          "format": "MultipleChoice",
+          "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Methane"]
+        },
+        {
+          "category": "Science",
+          "question": "True or False: Water boils at 100 degrees Celsius at sea level.",
+          "answer": "True",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Science",
+          "question": "What is the chemical symbol for the element with the atomic number 1?",
+          "answer": "H",
+          "format": "MultipleChoice",
+          "choices": ["He", "H", "Li", "Be"]
+        },
+        {
+          "category": "Science",
+          "question": "Which scientist developed the theory of general relativity?",
+          "answer": "Albert Einstein",
+          "format": "MultipleChoice",
+          "choices": ["Isaac Newton", "Galileo Galilei", "Marie Curie", "Albert Einstein"]
+        },
+        {
+          "category": "Science",
+          "question": "What is the chemical symbol for water?",
+          "answer": "H2O",
+          "format": "MultipleChoice",
+          "choices": ["CO2", "O2", "H2O", "N2"]
+        },
+        {
+          "category": "Science",
+          "question": "True or False: An adult human skeleton has 206 bones.",
+          "answer": "True",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Science",
+          "question": "Which planet was referred to as the 'Pale Blue Dot'?",
+          "answer": "Earth",
+          "format": "MultipleChoice",
+          "choices": ["Mars", "Venus", "Earth", "Neptune"]
+        },
+        {
+          "category": "Science",
+          "question": "What is the smallest unit of matter?",
+          "answer": "Atom",
+          "format": "MultipleChoice",
+          "choices": ["Molecule", "Cell", "Atom", "Proton"]
+        },
+        {
+          "category": "Science",
+          "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+          "answer": "Carbon Dioxide",
+          "format": "MultipleChoice",
+          "choices": ["Oxygen", "Methane", "Carbon Monoxide", "Carbon Dioxide"]
+        },
+        {
+          "category": "Science",
+          "question": "True or False: Antibiotics are effective against viruses.",
+          "answer": "False",
+          "format": "TrueFalse"
+        },
+        {
+          "category": "Science",
+          "question": "What is the largest planet in our solar system?",
+          "answer": "Jupiter",
+          "format": "MultipleChoice",
+          "choices": ["Mars", "Saturn", "Jupiter", "Neptune"]
+        }
+    ]
+  }
